@@ -1,0 +1,3 @@
+本作品基于https://github.com/zachlatta/sshtron
+
+打开run.bat后输入yes用wasd移动
